@@ -39,7 +39,7 @@ Each module includes:
 ## Repository Layout
 
 ```text
-response_0220/
+
 ├── Algorithm_DP_F/
 │   ├── scripts/                  # build/run/generate scripts
 │   ├── src/
